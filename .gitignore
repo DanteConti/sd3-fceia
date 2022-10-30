@@ -26,3 +26,8 @@ fp-info-cache
 *.csv
 
 hardware/pcbMCU/pcbMCU-backups/*
+hardware/pcbMCU/#auto_saved_files#
+
+Firmware/.settings
+Firmware/Debug
+Firmware/**/Debug/*
