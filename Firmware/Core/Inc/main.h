@@ -64,6 +64,10 @@ void Error_Handler(void);
 #define LoRa_DIO0_Pin GPIO_PIN_2
 #define LoRa_DIO0_GPIO_Port GPIOB
 #define LoRa_DIO0_EXTI_IRQn EXTI2_IRQn
+#define SCL_SP_Pin GPIO_PIN_9
+#define SCL_SP_GPIO_Port GPIOA
+#define SDA_SP_Pin GPIO_PIN_10
+#define SDA_SP_GPIO_Port GPIOA
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
