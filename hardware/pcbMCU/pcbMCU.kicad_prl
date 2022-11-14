@@ -1,9 +1,15 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "All Copper Layers",
+    "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_nets": [],
+    "hidden_nets": [
+      "GND",
+      "LS_OSCIN",
+      "HS_OSCIN",
+      "LS_OSCOUT",
+      "HS_OSCOUT"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -62,7 +68,7 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "0001020_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
