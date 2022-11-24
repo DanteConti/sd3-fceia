@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "STM32WLE5")(type "KiCad")(uri "${KIPRJMOD}/STM32WLE5.kicad_sym")(options "")(descr ""))
   (lib (name "RFM95W-915S2")(type "Legacy")(uri "${KIPRJMOD}/RFM95W-915S2.lib")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/Espressif.kicad_sym")(options "")(descr ""))
 )
